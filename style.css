@@ -1,0 +1,24 @@
+#Main_title{
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 2px;
+    background: #333;
+    color: #fff;
+    font-weight: 500;
+}
+
+.box1 h2{
+    float: left;
+}
+
+.box1 button{
+    float: right;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.modal-footer #btn {
+    float: left;
+}
